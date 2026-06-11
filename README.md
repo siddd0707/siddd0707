@@ -1,16 +1,15 @@
 # Hi, I'm Sidd 👋
 
 ## About Me
-- AI & Data Science Student
+- First year CSE student
 - Learning Cloud Computing and DevOps
-- Interested in AI, Automation and Web Development
+- Tech Enthusiast
 
 ## Skills
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+- C++
+- C
+- Python
+- MySQL
 
 ## Current Learning
 - Azure Cloud
