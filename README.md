@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sidd 👋
 
-<!--
-**siddd0707/siddd0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- AI & Data Science Student
+- Learning Cloud Computing and DevOps
+- Interested in AI, Automation and Web Development
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Azure Cloud
+- Docker
+- DevOps Fundamentals
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/t-siddharth-82a140376/
+- GitHub: https://github.com/siddd0707
